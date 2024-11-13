@@ -1,0 +1,11 @@
+li {
+    cursor: pointer;
+}
+
+li div:first-child{
+    padding: 20px 0px;
+}
+
+li.active {
+    background-color: lightblue;
+} 

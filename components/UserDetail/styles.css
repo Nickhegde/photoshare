@@ -1,0 +1,9 @@
+.occupation, .description, .see-photos {
+    margin-top: 20px;
+}
+
+.see-photos {
+    text-decoration: underline;
+    color: blue;
+    cursor: pointer;
+}

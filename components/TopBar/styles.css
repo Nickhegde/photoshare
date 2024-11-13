@@ -1,0 +1,18 @@
+.topbar-appBar {
+  height: 60;
+  justify-content: "center";
+}
+
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.header-container span {
+  font-size: 12px;
+  margin-bottom: 10px;
+  display: block;
+  font-style: italic;
+}
